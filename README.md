@@ -55,8 +55,7 @@ The dashboard helps users explore **sales trends, outlet performance, product ca
 
 ## 🖼 Screenshots
 ### 🔹 Dashboard Overview
-![Dashboard Overview](Screenshots/dashboard_overview.png)
-
+![Dashboard Overview](Screenshot 2026-01-20 195346.png)
 ---
 
 ## 🚀 How to Use
@@ -79,7 +78,7 @@ The dashboard helps users explore **sales trends, outlet performance, product ca
 **Ashwin Yadav**  
 📍 Ahmedabad, Gujarat  
 
-🔗 **GitHub:** [https://github.com/Ashwin-1718](https://github.com/Ashwin-1718)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/ashwin-yadav1718](https://www.linkedin.com/in/ashwin-yadav1718)
 
 ---
 
