@@ -55,7 +55,8 @@ The dashboard helps users explore **sales trends, outlet performance, product ca
 
 ## 🖼 Screenshots
 ### 🔹 Dashboard Overview
-![Dashboard Overview](Screenshot 2026-01-20 195346.png)
+![Dashboard Overview](dashboard_overview.png)
+
 ---
 
 ## 🚀 How to Use
