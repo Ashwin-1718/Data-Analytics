@@ -72,7 +72,6 @@ The dashboard helps users explore **sales trends, outlet performance, product ca
 - Dataset (`.xlsx` / `.csv`)
 - `Screenshots` folder
 - `README.md`
-
 ---
 
 ## 👤 Author
